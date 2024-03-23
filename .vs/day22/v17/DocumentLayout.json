@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Asp\\day22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B870B7D2-609D-43B9-B7B4-67B6883B888A}|day22\\day22.csproj|d:\\asp\\day22\\day22\\productef.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B870B7D2-609D-43B9-B7B4-67B6883B888A}|day22\\day22.csproj|solutionrelative:day22\\productef.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B870B7D2-609D-43B9-B7B4-67B6883B888A}|day22\\day22.csproj|d:\\asp\\day22\\day22\\productef.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B870B7D2-609D-43B9-B7B4-67B6883B888A}|day22\\day22.csproj|solutionrelative:day22\\productef.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B870B7D2-609D-43B9-B7B4-67B6883B888A}|day22\\day22.csproj|d:\\asp\\day22\\day22\\asp.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{B870B7D2-609D-43B9-B7B4-67B6883B888A}|day22\\day22.csproj|solutionrelative:day22\\asp.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductEF.aspx.cs",
+              "DocumentMoniker": "D:\\Asp\\day22\\day22\\ProductEF.aspx.cs",
+              "RelativeDocumentMoniker": "day22\\ProductEF.aspx.cs",
+              "ToolTip": "D:\\Asp\\day22\\day22\\ProductEF.aspx.cs",
+              "RelativeToolTip": "day22\\ProductEF.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T12:00:35.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ASP.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Asp\\day22\\day22\\ASP.edmx",
+              "RelativeDocumentMoniker": "day22\\ASP.edmx",
+              "ToolTip": "D:\\Asp\\day22\\day22\\ASP.edmx [Diagram1]",
+              "RelativeToolTip": "day22\\ASP.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-03-23T12:13:17.918Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductEF.aspx",
+              "DocumentMoniker": "D:\\Asp\\day22\\day22\\ProductEF.aspx",
+              "RelativeDocumentMoniker": "day22\\ProductEF.aspx",
+              "ToolTip": "D:\\Asp\\day22\\day22\\ProductEF.aspx",
+              "RelativeToolTip": "day22\\ProductEF.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-23T12:00:24.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
